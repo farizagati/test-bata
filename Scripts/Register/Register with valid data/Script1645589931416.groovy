@@ -51,3 +51,5 @@ WebUI.click(findTestObject('Page_Brick Sign Up/btn_okClosePopUp'))
 
 WebUI.closeBrowser()
 
+WebUI.acceptAlert()
+
